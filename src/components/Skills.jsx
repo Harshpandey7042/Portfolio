@@ -2,18 +2,18 @@ import React from 'react';
 
 const Skills = () => {
   const skills = [
-    { name: 'HTML', level: 90, image: 'public/skills/html5.png' },
-    { name: 'CSS', level: 85, image: 'public/skills/css.png' },
-    { name: 'Tailwind CSS', level: 55, image: 'public/skills/tailwind.webp' },
-    { name: 'JavaScript', level: 80, image: 'public/skills/js.png' },
-    { name: 'jQuery', level: 60, image: 'public/skills/jquery.png' },
-    { name: 'React', level: 50, image: 'public/skills/react-logo.png' },
-    { name: 'Node.js', level: 77, image: 'public/skills/Nodejs.png' },
-    { name: 'Express.js', level: 70, image: 'public/skills/express-js.png' },
-    { name: 'MongoDB', level: 80, image: 'public/skills/mngodb.webp' },
-    { name: 'Figma', level: 50, image: 'public/skills/figma.png' },
-    { name: 'Python', level: 60, image: 'public/skills/python.jpg' },
-    { name: 'GitHub', level: 80, image: 'public/skills/GitHub.png' }
+    { name: 'HTML', level: 90, image: '/Skills/html5.png' },
+    { name: 'CSS', level: 85, image: '/Skills/css.png' },
+    { name: 'Tailwind CSS', level: 55, image: '/Skills/tailwind.webp' },
+    { name: 'JavaScript', level: 80, image: '/Skills/js.png' },
+    { name: 'jQuery', level: 60, image: '/Skills/jquery.png' },
+    { name: 'React', level: 50, image: '/Skills/react-logo.png' },
+    { name: 'Node.js', level: 77, image: '/Skills/Nodejs.png' },
+    { name: 'Express.js', level: 70, image: '/Skills/express-js.png' },
+    { name: 'MongoDB', level: 80, image: '/Skills/mngodb.webp' },
+    { name: 'Figma', level: 50, image: '/Skills/figma.png' },
+    { name: 'Python', level: 60, image: '/Skills/python.jpg' },
+    { name: 'GitHub', level: 80, image: '/Skills/GitHub.png' }
   ];
 
   return (
